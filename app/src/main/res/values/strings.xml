@@ -1,0 +1,70 @@
+<resources>
+
+    <string name="app_name" translatable="false">Office Bank</string>
+    <string name="txt_titulo_comp">Competência:</string>
+    <string name="txt_competencia">Competencia</string>
+    <string name="txt_titulo_sit">Situação:</string>
+    <string name="txt_situacao">Situcação</string>
+    <string name="txt_titulo_total">Total em Horas:</string>
+    <string name="txt_totalHoras" translatable="false">Total</string>
+    <string name="txt_titulo_totalBanco">Total</string>
+    <string name="txt_total_banco" translatable="false">Total</string>
+    <string name="txt_add" translatable="false">Add</string>
+    <string name="txt_menuFecharComp">Fechar Competência</string>
+    <string name="txt_menuReabrirComp">Reabrir Competência</string>
+    <string name="txt_menuConfig">Configurações</string>
+    <string name="txt_menuSobre">Sobre</string>
+    <string name="txt_data">Data</string>
+    <string name="txt_hora50" translatable="false">50%</string>
+    <string name="txt_hora100" translatable="false">100%</string>
+    <string name="txt_salvar">Salvar</string>
+    <string name="txt_menuItem_Editar">Editar</string>
+    <string name="txt_itemSelect_excluir">Excluir</string>
+    <string name="txt_itemSelect_paga">Paga</string>
+    <string name="txt_itemSelect_Editar">Editar</string>
+    <string name="txt_itemSelect_Excluir">Excluir</string>
+    <string name="txt_itemSelect_Paga">Marcar como Paga</string>
+    <string name="item" translatable="false">Item</string>
+    <string name="deseja_realmente_apagar">Deseja Realmente Apagar Hora do dia ?</string>
+    <string name="confirmacao">Confirmação</string>
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+    <string name="txt_itemSelectEdtar">Editar</string>
+    <string name="txt_itemSelectExcluir">Excluir</string>
+    <string name="campo_vazio" translatable="false" />
+    <string name="aviso">Aviso</string>
+    <string name="ok" translatable="false">OK</string>
+    <string name="alterar_hora">Alterar</string>
+    <string name="add_horaExtra">Nova Extra</string>
+    <string name="txt_hora">Hora</string>
+    <string name="txt_minutos">Minutos</string>
+    <string name="txt_salario">Salario</string>
+    <string name="txt_cargaHoraria">Carga Horária Semanal</string>
+    <string name="txt_tema">Tema</string>
+    <string name="prefencias_cores" translatable="false">mobile.utfpr.com.br.mobileproject.PREFERENCIAS_CORES</string>
+    <string name="cor_fundo">COR_FUNDO</string>
+    <string name="preferencia_nome" translatable="false" />
+    <string name="msg_erro">Erro ao carregar Configurações</string>
+    <string name="txt_about">O Bank Office é um aplicativo que permite ao usuário obter controle
+        de sua rotina de horas extras realizadas.
+        Soma automaticamente valores das horas extras realizadas e as exibe no formato valor monetário e
+        banco de horas.
+        As bases de cálculo devem ser editadas no menu configurações.
+
+    </string>
+    <string name="sobre">Sobre</string>
+    <string name="version">Versão 79.1</string>
+    <string name="txt_marcarHorasPagas" translatable="false">Check</string>
+    <string name="marcar_horas_pagas">Horas Pagas</string>
+    <string name="configuracao">Configurações</string>
+    <string name="salvo">Sucesso !</string>
+    <string name="valores_atualizados">Valores Atualizados</string>
+    <string name="erro_projeto">Ainda estamos trabalhando nisso  : (</string>
+
+    <plurals name="selecionado">
+        <item quantity="one">%d selecionado</item>
+        <item quantity="other">%d selecionados</item>
+    </plurals>
+
+
+</resources>
